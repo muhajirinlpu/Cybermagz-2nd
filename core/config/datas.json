@@ -1,0 +1,194 @@
+[
+  {
+    "page"  : 1,
+    "title" : "COVER",
+    "color" : "",
+    "image" : "assets/data/cover/frontcover.png",
+    "thumb" : "assets/data/cover/thumb/frontcover.png",
+    "html"	: ""
+  },
+  {
+    "page"  : 2,
+    "title" : "Salam Redaksi",
+    "color" : "",
+    "image" : "assets/data/toc/salamredaksi.png",
+    "thumb" : "assets/data/toc/thumb/salamredaksi.png",
+    "html"	: "<p class='text salam'>Hai sobat,belum lama sejak cybermagz edisi pertama hadir.Kini cybermagz hadir edisi kedua nya loh,dengan tampilan dan fitur yang telah diperbarui dan pastinya lebih menarik dari edisi pertama.di edisi kali ini kita bakal membahas tentang surabaya dalam mempertingati hari pahlawan dan juga teknologi modern yang sedang populer.penasaran kan? yuk, langsung cekidot!</p>"
+  },
+  {
+    "page"  : 3,
+    "title" : "Daftar Isi",
+    "color" : "",
+    "image" : "assets/data/toc/daftarisi.png",
+    "thumb" : "assets/data/toc/thumb/daftarisi.png",
+    "html"	: "<ul class='text daftarisi'><li><a href='#page4'>Surabaya membara - 10 november</a></li><li><a href='#page6'>Wujudkan literasi dengan padi</a></li><li><a href='#page8'>WPS OFFICE - office yang open source</a></li><li><a href='#page10'>Duolingo-cara baru terbaik belajar bahasa</a></li><li><a href='#page12'>Be a youtuber</a></li><li><a href='#page14'>The virtual world become real</a></li><li><a href='#page16'>Drama kolosal SMKN1Surabaya</a></li><li><a href='#page18'>SMKN 1 Surabaya</a></li><li><a href='#page20'>Profil CyberMagz</a></li><li><a href='#page22'>Biodata CyberTeam</a></li></ul>"
+  },
+  {
+    "page"  : 4,
+    "title" : "Surabaya Membara",
+    "color" : "#ff7f2a",
+    "image" : "assets/data/sm/sm1.png",
+    "thumb" : "assets/data/sm/thumb/sm1.png",
+    "html"  : "<img src='assets/data/sm/sm.png' id='sm-pic' class='animagz'><p class='text float'>Drama Kolosal Surabaya Membara berlangsung Rabu malam (9/11).Pertunjukan yang menampilkan kisah perjuangan arek suroboyo saat melawan penjajah itu diselenggarakan di jalan pahlawan, Surabaya.Acara Surabaya Membara 2016 ini merupakan agenda rutin yang diselenggarakan oleh Kota Surabaya dalam rangka menyambut Hari Pahlawan. Surabaya Membara 2016 ini membawa para penonton untuk kembali merasakan suasana dimana Kota Surabaya dibombardir oleh tentara Sekutu pada tanggal 10 November 1945.Sebanyak 750 hingga 800 personel dilibatkan dalam acara Surabaya Membara 2016.Personel ini berasal dari unsur </p><p class='text float'>Tentara Nasional Indonesia (TNI),Mahasiswa, Pelajar dari Sekolah Dasar hingga SMA,Berbagai Komunitas Di Kota Surabaya, Paguyuban Putra Putri Pejuang dan masyarakat umum.Latihan selama 2minggu telah dilakukan di lapangan Kodam Brawijaya demi maksimal nya penampilan mereka.Suasana yang mencengkam, suara tembakan,bom bahkan teriakan para pemuda menghiasi malam. Bahkan para penonton juga antusias melihatnya sampai dibuat terkesima. Tak sedikit juga yang mengabadikan moment-moment ini yang hanya berlangsung setahun sekali selama 2jam ini.</p>"
+  },
+  {
+    "page"  : 5,
+    "title" : "Surabaya Membara",
+    "color" : "#ff7f2a",
+    "image" : "assets/data/sm/sm2.png",
+    "thumb" : "assets/data/sm/thumb/sm2.png",
+    "html"  : "<img src='assets/data/sm/sm-pic.jpg' class='sm-pic'><video src='assets/data/sm/sm.mp4' controls class='sm-video'></video>"
+  },
+  {
+    "page"  : 6,
+    "title" : "Wujudkan literasi dengan padi",
+    "color" : "#e3322c",
+    "image" : "assets/data/padi/padi1.png",
+    "thumb" : "assets/data/padi/thumb/padi1.png",
+    "html"  : "<div class='padi-text'><p class='text float'>SURABAYA – Dalam peringkat negara-negara dengan tingkat literasi paling tinggi di dunia, berdasarkan penelitian The World’s Most Literate Nation (WMLN), Indonesia berada di peringkat ke-60. Artinya minat baca di Indonesia masih rendah.General Manager PT Telkom Indonesia (Persero) Witel Surabaya, Muhammad Nasrun Ihsan, memaparkan itu di acara Rembug Kreatif Pentahelix dengan tajuk “Menerka Literasi Di Era Digitalisasi”, di aula Perpustakaan Bank Indonesia Jalan Mayangkara No 6 Surabaya, </p><p class='text float'>Sabtu (17/9/2016).Disebutkan Nasrun, media baru dalam literasi ialah blog seperti WordPress, Blogger, jejaring sosial seperti LinkedIn, Goodreads, Facebook, Path, dan Instagram. Adapula jejaring sosial berbasis lokasi seperti Gowalla, Foursquare, dan facebook place, serta beberapa media digital lainnya. Keuntungan digital literasi ini ialah menghemat waktu, belajar lebih cepat, bekerja di lingkungan sendiri, mencari data dan fakta tanpa khawatir, hemat biaya, lebih aman tanpa perlu pergi keluar </p></div>"
+  },
+  {
+    "page"  : 7,
+    "title" : "Wujudkan literasi dengan padi",
+    "color" : "#e3322c",
+    "image" : "assets/data/padi/padi2.png",
+    "thumb" : "assets/data/padi/thumb/padi2.png",
+    "html"  : "<div class='padi-text'><p class='text float'>daerah/negeri, selalu update, selalu terkoneksi, membuat keputusan tepat, dan dapat mempengaruhi seluruh dunia.Telkom sendiri, kata Nasrun, punya peran penting dalam upaya penetrasi literasi digital. Yakni dengan meluncurkan Pustaka Digital (PaDi) di Jakarta pada 4 Mei 2016. PADI merupakan salah satu bentuk implementasi mewujudkan program BUMN ”Hadir Untuk Negeri” dan mendukung program Taman Baca Masyarakat dari Kemendikbud.“PaDi adalah program implementasi Digital Learning Corner (taman baca digital) yang menyediakan kumpulan e-book gratis yang dapat diakses di lokasi</p><p class='text float'> Plasa Telkom dan Wifi Corner (Wico) Telkom melalui PC atau device yang disediakan di seluruh Indonesia. Itu dapat dinikmati gratis. Terdapat 1000 e-book gratis dari berbagai kategori, msialnya novel, sastra, majalah, buku sekolah,” jelas Nasrun.Khusus di Surabaya, PaDi hadir di Plasa Dinoyo Surabaya, Wico Plasa Dinoyo, Plasa Telkom Rungkut Surabaya, Plasa Telkom Tandes, Plasa Telkom Garuda Surabaya, dan beberapa titik lainnya. “Mudahnya lagi PaDi bisa didownload via gadget,” kata Nasrun.<br>sumber: beritalima.com</p></div>"
+  },
+  {
+    "page"  : 8,
+    "title" : "WPS OFFICE",
+    "color" : "#e3322c",
+    "image" : "assets/data/wps/wps1.png",
+    "thumb" : "assets/data/wps/thumb/wps1.png",
+    "html"	: "<div class='wps-con'><p class='text float wps-text'>WPS Office merupakan salah satu aplikasi mobile office terbaik yang bisa di-download untuk smartphone. Pertama kemunculannya aplikasi mobile office ini bernama Kingsoft Office dan kini di-upgrade dengan berbagai pembaharuan dan berganti nama menjadi WPS Office. WPS Office menyediakan semua fungsi yang anda perlukan untuk membuat dan mengedit dokumen termasuk kemampuan untuk menambahkan komentar</p><p class='text float wps-text'>, garis bawah, membuat tabel, membuat animasi, menyisipkan gambar, dan membuat bentuk.WPS Office mendukung semua format dokumen utama, hingga total 23 termasuk DOC, DOCX, TXT, XLS, XLSX, PPT, PPTX, PDF. WPS Office terintegrasi dengan dropbox, Google Drive, Box, dan OneDrive, sehingga anda dapat dengan mudah mengakses file yang tersimpan walaupun anda tidak sedang berada di depan komputer PC atau Laptop.</p></div>"
+  },
+  {
+    "page"  : 9,
+    "title" : "WPS OFFICE",
+    "color" : "#e3322c",
+    "image" : "assets/data/wps/wps2.png",
+    "thumb" : "assets/data/wps/thumb/wps2.png",
+    "html"	: "<div class='wps-con2'><p class='text float'>Dengan fitur-fitur tersebut, tentunya WPS Office dapat menangani hampir semua pekerjaan anda untuk membuat dokumen hanya menggunakan smartphone.</p><p class='text float'>Dan lagi aplikasi ini open source juga loh, tidak hanya tersedia untuk android, desktop, linux maupun Ios juga tersedia. Jadi tunggu apalagi? buruan install untuk memudahkan pekerjaan kalian.</p></div><video src='assets/data/wps/wps-office.MP4' controls class='wps-video'></video>"
+  },
+  {
+    "page"  : 10,
+    "title" : "Duolingo",
+    "color" : "#79c505",
+    "image" : "assets/data/duolingo/duolingo1.png",
+    "thumb" : "assets/data/duolingo/thumb/duolingo1.png",
+    "html"	: "<img src='assets/data/duolingo/duolingo.png' id='duolingo' class='animagz'>"
+  },
+  {
+    "page"  : 11,
+    "title" : "Duolingo",
+    "color" : "#79c505",
+    "image" : "assets/data/duolingo/duolingo2.png",
+    "thumb" : "assets/data/duolingo/thumb/duolingo2.png",
+    "html"	: "<div id='duolingo-text'><p class='text float'>Cara baru terbaik untuk belajar bahasa.Belajar dengan Duolingo menyenangkan dan membuat ketagihan. Dapatkan poin dengan menjawab benar, dibatasi waktu, dan naik tingkat. Pelajaran-pelajaran singkat Duolingo efektif, dan kami punya bukti tentang hal ini.Perhatikan bagaimana kami melakukannya Pelajari kapan pun, di mana pun Jadikan waktu istirahat dan perjalananmu lebih produktif dengan aplikasi iPhone dan Android kami. Unduh dan buktikan mengapa Apple dan Google memberikan kami penghargaan tertingginya.</p><p class='text float'>Duolingo untuk Sekolah-sekolah Program pembelajaran bahasa paling populer di dunia sekarang tersedia untuk dipakai di kelas. Ribuan guru sudah memakai Duolingo untuk menyokong kegiatan belajar mengajar.<br><br>sumber:id.duolingo.com</p></div><video src='assets/data/duolingo/duolingo.mp4' controls class='duo-video'></video>"
+  },
+  {
+    "page"  : 12,
+    "title" : "Youtuber",
+    "color" : "#de3a3a",
+    "image" : "assets/data/ytbr/youtuber1.png",
+    "thumb" : "assets/data/ytbr/thumb/youtuber1.png",
+    "html"	: "<img src='assets/data/ytbr/youtuber.png' id='kol-pic' class='animagz'><img src='assets/data/ytbr/ytbr-pic.jpg' style='left:35px;width:300px;' class='kol-pic2'><video controls src='assets/data/ytbr/ytbr-video.MP4' class='kol-video'></video>"
+  },
+  {
+    "page"  : 13,
+    "title" : "Youtuber",
+    "color" : "#de3a3a",
+    "image" : "assets/data/ytbr/youtuber2.png",
+    "thumb" : "assets/data/ytbr/thumb/youtuber2.png",
+    "html"	: "<div id='ytbr'><p class='text float'>Dengan menjadi youtuber anda bisa mendapatkan penghasilan sekaligus bersenang-senang,anda bisa mengupload berbagai macam video baik itu video hiburan maupun video tutorial.Karena video apapun itu selama video itu menarik dan mendapat banyak viewers dan subscribe anda akan mendapatkan penghasilan,akan ada pihak yang akan menawarkan iklan ke video anda dan dari situlah anda akan mendapatkan penghasilan.gimana sobat? menarik bukan? yuk buruan mencoba berbisnis dengan menjadi youtuber</p><p class='text float'>Dengan menjadi youtuber anda bisa mendapatkan penghasilan sekaligus bersenang-senang,anda bisa mengupload berbagai macam video baik itu video hiburan maupun video tutorial.Karena video apapun itu selama video itu menarik dan mendapat banyak viewers dan subscribe anda akan mendapatkan penghasilan,akan ada pihak yang akan menawarkan iklan ke video anda dan dari situlah anda akan mendapatkan penghasilan.gimana sobat? menarik bukan? yuk buruan mencoba berbisnis dengan menjadi youtuber</p></div>"
+  },
+  {
+    "page"  : 14,
+    "title" : "VR",
+    "color" : "#00617b",
+    "image" : "assets/data/vr/vr1.png",
+    "thumb" : "assets/data/vr/thumb/vr1.png",
+    "html"	: "<div id='vr-text'><p class='text float'>Jika ada seseorang yang membicarakan tentang virtual reality pasti orang awam akan bertanya, apa itu virtual reality? Virtual reality bukanlah sebuah helm atau masker yang digunakan Darth Vader di film Star Wars, vr merupakan teknologi yang memungkinkan anda untuk </p><img src='assets/data/vr/vr.jpeg' id='vr-pic'><p class='text float'>berinteraksi dengan objek imajinasi dengan menggunakan komputer dan membawa anda ke dalam suasana 3-Dimensi yang seolah nyata.Jadi apa itu virtual reality? virtual reality adalah teknologi yang mampu membangkitkan suasana 3D yang nyata,sehingga membuat penggunanya merasa seprti berada didunia nyata meskipun simulasi yang ada di depannya adalah maya</p></div>"
+  },
+  {
+    "page"  : 15,
+    "title" : "VR",
+    "color" : "#00617b",
+    "image" : "assets/data/vr/vr2.png",
+    "thumb" : "assets/data/vr/thumb/vr2.png",
+    "html"	: "<p class='text vr-text2'>Teknologi ini digunakan oleh peramu obat,arsitek,pekerja medis,bahkan gamer yang menyukai sensai bermain game yang 'nyata'.Bahkan saat ini sudah banyak bermunculan game yang dibuat khusus untuk virtual reality tersebut.Penasaran? Tunggu apalagi ayo segera mencoba virtual reality dan rasakan dunia maya menjadi nyata.</p><video src='assets/data/vr/vr.MP4' controls id='vr-video'></video><img src='assets/data/vr/vr.png' id='vr' class='animagz'>"
+  },
+  {
+    "page"  : 16,
+    "title" : "Kolosal",
+    "color" : "#207542",
+    "image" : "assets/data/kolosal/kolosal1.png",
+    "thumb" : "assets/data/kolosal/thumb/kolosal1.png",
+    "html"	: "<img src='assets/data/kolosal/kolosal.png' id='kol-pic' class='animagz'><img src='assets/data/kolosal/foto.jpeg' class='kol-pic2'><video controls src='assets/data/kolosal/video.mp4' class='kol-video'></video>"
+  },
+  {
+    "page"  : 17,
+    "title" : "Kolosal",
+    "color" : "#207542",
+    "image" : "assets/data/kolosal/kolosal2.png",
+    "thumb" : "assets/data/kolosal/thumb/kolosal2.png",
+    "html"	: "<div id='kol-text'><p class='text float'>Upacara memperingati hari pahlawan dilaksanakan dilapangan SMKN1 Surabaya, dilanjutkan dengan pertunjukan drama kolosal.Pertunjukan ini merupakan buah ide dari para siswa SMKN1 Surabaya. Berbagai siswa beragam ekstrakurikuler berbeda ikut andil dalam memeriahkan kolosal yang digelar dilapangan sekolah pada 10 November 2016.pertunjukan ini juga merupakan acara rutin yang diadakan SMKN1 Surabaya dalam memperingati hari pahlawan.Pertunjukan berlangsung sangat meriah, suara alunan musik dari karawitan dan Band, teriakan dari para pejuang arek-arek surabaya</p><p class='text float'>dalam melawan penjajah belanda. Tidak hanya drama, ada penampilan dari ekskull cheersleader dan dance yang membuat suasana dilapangan SMKN1 Surabaya semakin memanas. di tambah dengan asap warna-warni yang menghiasi langit yang menggambarkan betapa mencengkram nya perjuangan arek-arek surabaya dalam peristiwa 10 november.pertunjukan ini bertujuan untuk mengenang perjuangan rakyat surabaya dalam peristiwa 10 November.Semoga pertunjukan ini membawa dampak positif bagi para siswa SMKN1 Surabaya,dan juga dapat selalu dipertunjukan setiap tahunnya untuk memperingati hari pahlawan.</p></div>"
+  },
+  {
+    "page"  : 18,
+    "title" : "Profil Sekolah",
+    "color" : "#fff500",
+    "image" : "assets/data/smkn1/smkn1.png",
+    "thumb" : "assets/data/smkn1/thumb/smkn1.png",
+    "html"	: "<img src='assets/data/smkn1/smkn1sby.png' id='logoSekolah' class='animagz center'>"
+  },
+  {
+    "page"  : 19,
+    "title" : "Profil Sekolah",
+    "color" : "#fff500",
+    "image" : "assets/data/smkn1/smkn2.png",
+    "thumb" : "assets/data/smkn1/thumb/smkn2.png",
+    "html"	: ""
+  },
+  {
+    "page"  : 20,
+    "title" : "Behind The Scenes",
+    "color" : "#535353",
+    "image" : "assets/data/bts/bts1.png",
+    "thumb" : "assets/data/bts/thumb/bts1.png",
+    "html"  : "<img src='assets/data/bts/cymagz1.png' class='center cymagz1'><div class='bts1'><p class='text float'>Di Cyber Magz edisi pertama kita telah membahas apa itu Cyber Magz dan asal-usul nya.Nah, di edisi kedua ini kita akan membahas apa yang telah dicapai oleh Cyber Magz dan bagaimana usaha kita dalam mencapainya,di edisi pertama kita benar-benar bersusah payah dalam proses pembuatan Majalah Digital Cyber Magz edisi pertama,</p><p class='text float'>tetapi dibalik usaha keras kita, kita mendapatkan hasil yang sangat memuaskan.Kita meraih juara 1 dalam kompetisi semanggi yang diadakan dinkominfo di BG Junction.semua anggota team sangat antusias dalam proses pembuatan majalah digital ini, bahkan rela begadang tiap hari demi</p><div style='clear:both;'></div></div>"
+  },
+  {
+    "page"  : 21,
+    "title" : "Behind The Scenes",
+    "color" : "#535353",
+    "image" : "assets/data/bts/bts2.png",
+    "thumb" : "assets/data/bts/thumb/bts2.png",
+    "html"  : "<img src='assets/data/bts/semanggi.jpeg' class='center semanggi'><div class='bts2'><p class='text float'>tercapainya hasil maksimal dalam pembuatan majalah digital ini. ada juga yang sampai bertengkar dengan kekasih mereka masing-masing hehe.awalnya kita tidak percaya kita meraih juara 1, karena kita juga baru pertama kali mengikuti lomba majalah digital. selain shock, kami juga sangat senang. Bahkan sekolah kami mendapatkan juara umum di lomba semanggi kemarin.di pembuatan Cyber Magz edisi kedua ini, berbeda </p><p class='text float'>dengan edisi pertama. Di edisi pertama pembuatannya sekitar 1 bulan,tetapi di edisi kedua kali ini kita hanya punya waktu 3hari. untuk usaha pembuatannya ya sama seperti edisi pertama hanya waktu pembuatannya saja yang berbeda.Semoga dalam Majalah Digital Cyber Magz edisi kedua ini dapat bermanfaat bagi kalian para pembaca.Selalu tunggu dan ikuti perkembangan dari Cyber Magz, karena Cyber Magz akan terus merilis edisi-edisi selanjutnya.</p><div style='clear:both;'></div></div>"
+  },
+  {
+    "page"  : 22,
+    "title" : "Profil Team",
+    "color" : "#535353",
+    "image" : "assets/data/profil/profil1.png",
+    "thumb" : "assets/data/profil/thumb/profil1.png",
+    "html"  : ""
+  },
+  {
+    "page"  : 23,
+    "title" : "Profil Team",
+    "color" : "#535353",
+    "image" : "assets/data/profil/profil2.png",
+    "thumb" : "assets/data/profil/thumb/profil2.png",
+    "html"  : ""
+  },
+  {
+    "page"  : 24,
+    "title" : "BACKCOVER",
+    "color" : "",
+    "image" : "assets/data/cover/backcover.png",
+    "thumb" : "assets/data/cover/thumb/backcover.png",
+    "html"  : ""
+  }
+]

@@ -1,0 +1,208 @@
+/**/
+
+.text{
+	font-size: 15px;
+	text-align: justify;
+}
+
+.float{
+	width: 45%;
+	margin-left:10px;
+	font-size: 11px;
+	float: left;
+}
+
+/*salam dan daftar isi*/
+.salam{
+	position: absolute;
+	bottom: 2%;
+	padding: 20px;
+	font-size:14px ;
+}
+
+.daftarisi{
+	text-align: left;
+	margin-top: 240px;
+}
+
+.daftarisi li{
+	list-style: decimal;
+	margin-top: 4px;
+}
+
+.daftarisi li a{
+	color: #000;
+	text-decoration: none;
+}
+
+/*surabaya membara*/
+#sm-pic{
+	width:90% ;
+	margin-top: 20px;
+}
+
+.sm-pic{
+	position: absolute;
+	width: 80%;
+	top: 20px;
+	left: 30px ;
+	z-index: 2;
+	animation: atasbawa 2s infinite alternate ;
+}
+
+.sm-video{
+	width: 55%;
+	position: absolute;
+	bottom: 70px;
+	left: 10px;
+}
+
+/*duolingo*/
+#duolingo{
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 10%;
+}
+
+#duolingo-text{
+	margin-top: 150px;
+}
+
+.duo-video{
+	width: 45%;
+	position: absolute;
+	bottom: 100px;
+	right: 10px;
+}
+
+/*wps office*/
+
+.wps-con{
+	margin-top: 260px;
+}
+
+.wps-con2{
+	margin-top: 200px;
+}
+
+.wps-video{
+	width: 300px;
+	position: absolute;
+	bottom: 25px;
+	left: 20px;
+}
+
+/*youtuber*/
+#ytbr{
+	width: 90%;
+	margin-top: 20px;
+}
+
+/*vr*/
+#vr{
+	position: absolute;
+	width: 35%;
+	right: 0;
+	bottom: 0;
+}
+
+#vr-text{
+	margin-top: 205px;
+}
+
+.vr-text2{
+	font-size: 11px;
+	margin:30px;
+	margin-top:190px;
+}
+
+#vr-video{
+	width: 60%;
+	position: absolute;
+	bottom: 15%;
+	left: 10px;
+	z-index: 1;
+}
+
+#vr-pic{
+	position: absolute;
+	max-width: 40%;
+	left:20px;
+	bottom: 10%;
+	animation: kanankiri 2s infinite alternate ;
+}
+
+/*smkn1*/
+#logoSekolah{
+	width: 40%;
+	margin-top: 40px;
+}
+
+/*kolosal*/
+#kol-pic{
+	position: absolute;
+	left: 30px;
+	width: 90%;
+	margin-top: 20px;
+	z-index: 3;
+}
+
+.kol-pic2{
+	position: absolute;
+	width: 50%;
+	top: 25%;
+	left: 25%;
+	z-index: 2;
+	animation: atasbawa 2s infinite alternate ;
+}
+
+.kol-video{
+	width: 70%;
+	position: absolute;
+	bottom: 40px;
+	right: 15%;
+	z-index: 1;
+}
+
+#kol-text{
+	margin-top: 50px ;
+}
+
+/*youtuber*/
+#ytbr{
+	margin-top: 80px;
+	margin-left:20px;
+}
+
+
+/*padi*/
+.padi-text{
+	margin-top:180px ;
+}
+
+/*behind the scene*/
+.bts1{
+	margin-top: 300px;
+	background-color: #fefee6;
+}
+
+.bts2{
+	margin-top: 235px;
+	background-color: #fefee6;
+}
+
+.semanggi{
+	max-width: 70%;
+	max-height: 27%;
+	position: absolute;
+	top: 19%;
+	animation: shakeopa 2s infinite alternate ;
+}
+
+.cymagz1{
+	max-width: 70%;
+	position: absolute;
+	top: 20%;
+	animation: atasbawa 2s infinite alternate ;
+}

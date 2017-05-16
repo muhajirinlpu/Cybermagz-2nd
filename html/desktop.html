@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CyberMagz - Digital Magazine</title>
+	<link rel="icon" href="assets/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="style/library/animate.css">
+	<link rel="stylesheet" type="text/css" href="style/library/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="style/keyframes.css">
+	<link rel="stylesheet" type="text/css" href="style/style.css">
+	<link rel="stylesheet" type="text/css" href="style/datas.css">
+</head>
+<body>
+	<div class="splash center"></div>
+	
+	<div id="background">
+		<div id="particle-bg"></div>
+		<div id="coloring-bg"></div>
+		<div id="pattern-bg"></div>
+	</div>
+	
+	<li class="button hide settings-btn" data-action="settings" title="Settings"><img src="assets/icon/setting.png"></li>
+	<div class="component-icon">
+		<img style="position: absolute;z-index: 10;" src="assets/icon/logo.png" class="center logo" data-time="1">
+		<ul class="left buttonInline">
+			<li class="button" data-action="settings" title="Settings"><img src="assets/icon/setting.png"></li>
+			<li class="button" data-action="help" title="Help"><img src="assets/icon/help.png"></li>
+			<li class="button" data-action="download" title="Download offline"><img src="assets/icon/download.png"></li>
+		</ul>
+		<ul class="right buttonInline">
+			<li class="button" data-action="zoomIn" title="Zoom In"><img src="assets/icon/zoomin.png"></li>
+			<li class="button" data-action="zoomOut" title="Zoom Out"><img src="assets/icon/zoomout.png"></li>
+			<li class="button" data-action="zoomRes" title="Zoom Reset"><img src="assets/icon/zoomreset.png"></li>
+		</ul>
+		<ul class="left flaoting buttonInherit">
+			<li class="button" data-action="prev" title="Previous Page"><img src="assets/icon/previous.png"></li>
+			<li class="button" data-action="front" title="Front Cover"><img src="assets/icon/frontcover.png" ></li>
+		</ul>
+		<ul class="right flaoting buttonInherit">
+			<li class="button" data-action="next" title="Next Page" style="float: right"><img src="assets/icon/next.png"></li>
+			<li class="button" data-action="back" title="Back Cover"><img src="assets/icon/backcover.png" ></li>
+		</ul>
+		<ul class="left flaoting buttonInherit" style="bottom: 0">
+			<li class="button" data-action="thumb" title="Thumbnails" style="transform: translateY(20%);"><img src="assets/icon/thumbnails.png"></li>
+		</ul>
+	</div>
+
+	<div id="magz-container" class="center">
+		<div id="magz" class="center">
+			<!-- parse js -->
+		</div>
+	</div>
+
+	<div class="thumb-container panel">
+		<input type="text" name="search" id="search-input" placeholder="Cari konten...">
+		<div id="thumbContents">
+			
+		</div>
+		<!-- parse js -->
+	</div>
+
+	<div class="blank center" data-action="clear"></div>
+	<div class="image-help center" ></div>
+	<!-- setting panel -->
+	<div class="settings panel">
+		<h3 class="center" style="margin-top: 10px">Cyber Magz Settings</h3>
+		<table class="some">
+			<!-- parse js -->
+		</table>
+	</div>
+
+	<div id="notif"></div>
+	<!--config load-->
+	<script type="text/javascript" src="core/config/audio.js"></script>
+	<script type="text/javascript" src="core/config/env.js"></script>
+	<!--libraries load-->
+	<script type="text/javascript" src="core/library/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="core/library/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="core/library/particles.min.js"></script>
+	<script type="text/javascript" src="core/library/turn.min.js"></script>
+	<!--core load-->
+	<script type="text/javascript" src="core/core.js"></script>
+</body>
+</html>

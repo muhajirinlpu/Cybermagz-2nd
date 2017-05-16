@@ -1,0 +1,228 @@
+/**/
+
+.center{
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.text{
+	font-size: 38px;
+	text-align: justify;
+}
+
+.float{
+	width: 45%;
+	margin-left:20px;
+	font-size: 35px;
+	float: left;
+}
+
+/*salam dan daftar isi*/
+.salam{
+	position: absolute;
+	bottom: 2%;
+	padding: 20px;
+	font-size:14px ;
+}
+
+.daftarisi{
+	position: absolute;
+	left: 5%;
+	text-align: left;
+	margin-top: 90%;
+}
+
+.daftarisi li{
+	list-style: decimal;
+	margin-top: 4px;
+}
+
+.daftarisi li a{
+	color: #000;
+	text-decoration: none;
+}
+
+/*surabaya membara*/
+#sm-pic{
+	width:90% ;
+	margin-top: 20px;
+}
+
+.sm-pic{
+	position: absolute;
+	width: 95%;
+	top: 8%;
+	left: 30px ;
+	z-index: 2;
+	animation: atasbawa 2s infinite alternate ;
+}
+
+.sm-video{
+	width: 55%;
+	position: absolute;
+	bottom: 25%;
+	left: 15px;
+}
+
+/*duolingo*/
+#duolingo{
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 10%;
+}
+
+#duolingo-text{
+	margin-top: 40%;
+}
+
+.duo-video{
+	width: 50%;
+	position: absolute;
+	bottom: 25%;
+	right: 10px;
+}
+
+/*wps office*/
+
+.wps-con{
+	margin-top: 80%;
+}
+
+.wps-con2{
+	margin-top: 70%;
+}
+
+.wps-video{
+	width: 90%;
+	position: absolute;
+	bottom: 7%;
+	left: 5%;
+}
+
+.wps-text{
+	background-color: #f2f2f2;
+}
+
+/*youtuber*/
+#ytbr{
+	position: absolute;
+	right: 0;
+	left: 5%;
+	top: 5%;
+	width: 90%;
+	margin-top: 80px;
+	margin-left:20px;
+}
+
+/*vr*/
+#vr{
+	position: absolute;
+	width: 35%;
+	right: 0;
+	bottom: 0;
+}
+
+#vr-text{
+	margin-top: 70%;
+}
+
+.vr-text2{
+	font-size: 38px;
+	margin:30px;
+	margin-top:55%;
+}
+
+#vr-video{
+	width: 65%;
+	position: absolute;
+	bottom: 17%;
+	left: 10px;
+	z-index: 1;
+}
+
+#vr-pic{
+	position: absolute;
+	max-width: 40%;
+	left: 3%;
+	bottom: 15%;
+	animation: kanankiri 2s infinite alternate ;
+}
+
+/*smkn1*/
+#logoSekolah{
+	width: 40%;
+	margin: 0 auto;
+	position: absolute;
+	top: 16%;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	animation: kanankiri 2s infinite alternate ;
+}
+
+/*kolosal*/
+#kol-pic{
+	position: absolute;
+	left: 30px;
+	width: 90%;
+	margin-top: 20px;
+	z-index: 3;
+}
+
+.kol-pic2{
+	position: absolute;
+	width: 75% !important;
+	top: 20%;
+	left: 10px ;
+	z-index: 2;
+	animation: atasbawa 2s infinite alternate ;
+}
+
+.kol-video{
+	width: 85%;
+	position: absolute;
+	bottom: 10%;
+	right: 10px;
+	z-index: 1;
+}
+
+#kol-text{
+	margin-top: 15% ;
+}
+
+/*padi*/
+.padi-text{
+	position: absolute;
+	top: 32%;
+}
+
+/*behind the scene*/
+.bts1{
+	margin-top: 82%;
+	background-color: rgba(255,255,255,1);
+}
+
+.bts2{
+	margin-top: 78%;
+	background-color: rgba(255,255,255,1);
+}
+
+.semanggi{
+	max-width: 50%;
+	position: absolute;
+	top: 22%;
+	animation: shakeopa 2s infinite alternate ;
+}
+
+.cymagz1{
+	max-width: 60%;
+	position: absolute;
+	left: -7%;
+	top: 27%;
+	animation: kanankiri 1.5s infinite alternate ;
+}
